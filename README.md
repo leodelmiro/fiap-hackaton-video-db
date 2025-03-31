@@ -1,4 +1,4 @@
-# Tech Challenge - Estabelecimento
+# Tech Challenge - Hackaton - Video para Imagens
 
 # Índice
 
