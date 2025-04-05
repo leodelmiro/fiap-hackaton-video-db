@@ -31,7 +31,7 @@ Este repositório é referente a Infra do Database (RDS) e Postegres.
 - Terraform
 - AWS
 - RDS
-- PostgresSQL
+- PostgresSQL (17.4)
 - NodeJS (Lambda)
 
 ## Estrutura do Projeto
