@@ -14,7 +14,7 @@
 Aplicação se trata de um Projeto Fiap Tech Challenge (Hackathon) - Software Architecture, simulando um projeto de uma
 empresa que recebe videos e transforma em Imagens.
 
-Este repositório é referente a Infra do Database (RDS).
+Este repositório é referente a Infra do Database (RDS) e Postegres.
 
 ### Demais repositórios
 
