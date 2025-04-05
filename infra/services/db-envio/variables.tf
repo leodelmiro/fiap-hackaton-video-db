@@ -15,7 +15,7 @@ variable "instanceClass" {
 }
 
 variable "engineVersion" {
-  default = "17.1"
+  default = "17.2-R2"
 }
 
 variable "dbName" {
