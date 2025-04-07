@@ -62,11 +62,7 @@ git clone https://github.com/leodelmiro/fiap-hackaton-video-db
 - Pre-requisito:
     - AWS Configurada
 
-O projeto inclui um script de setup (`setup.sh`) que automatiza o processo de construção e execução do projeto. O script
-realiza as seguintes operações:
-
--
-
+O projeto inclui um script de setup (`setup.sh`) que automatiza o processo de construção e execução do projeto. 
 Para executar o script, siga os passos abaixo:
 
 #### macOS e Linux
