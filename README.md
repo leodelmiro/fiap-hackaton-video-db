@@ -7,6 +7,7 @@
 * [Demais repositórios](#Demais-repositórios)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Estrutura do Projeto](#Estrutura-do-Projeto)
+* [Script](#Script)
 * [Rodando o Projeto Local](#Rodando-o-Projeto-Local)
 
 ## Breve Descrição
@@ -38,7 +39,20 @@ Este repositório é referente a Infra do Database (RDS) e Postegres.
 
 - .github: Arquivos com as actions.
 - Infra: Arquivos terraform para criação do banco de dados.
-    - lambda_function: Arquivos da Lambda function que cria os schemas do branco.
+    - lambda_function: Arquivos da Lambda function que cria os schemas do branco
+ 
+## Script
+```
+CREATE TABLE IF NOT EXISTS tb_envio (
+    id SERIAL PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    descricao TEXT NOT NULL,
+    autor VARCHAR(255) NOT NULL,
+    url VARCHAR(500),
+    status INTEGER NOT NULL,
+    criado_em TIMESTAMP DEFAULT current_timestamp
+);
+```
 
 ## Rodando o Projeto Local
 
