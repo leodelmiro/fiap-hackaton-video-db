@@ -30,10 +30,9 @@ Este repositório é referente a Infra do Database (RDS) e Postegres.
 ## Tecnologias Utilizadas
 
 - Terraform
-- AWS
-- RDS
+- AWS RDS
 - PostgresSQL (17.4)
-- NodeJS (Lambda)
+- NodeJS (AWS Lambda)
 
 ## Estrutura do Projeto
 
