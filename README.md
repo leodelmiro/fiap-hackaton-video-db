@@ -38,7 +38,7 @@ Este repositório é referente a Infra do Database (RDS) e PostegresSQL e a scri
 
 - .github: Arquivos com as actions.
 - Infra: Arquivos terraform para criação do banco de dados.
-    - lambda_function: Arquivos da Lambda function que cria os schemas do branco
+    - lambda_function: Arquivos da Lambda function que cria os schemas do branco.
  
 ## Script
 ```
